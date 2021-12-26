@@ -1,0 +1,2 @@
+E:\Работы VS\Rabota 1.1\obj\Debug\Rabota 1.1.csproj.AssemblyReference.cache
+E:\Работы VS\Rabota 1.1\obj\Debug\Rabota 1.1.csproj.CoreCompileInputs.cache
